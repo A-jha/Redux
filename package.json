@@ -1,0 +1,23 @@
+{
+  "name": "redux-basics",
+  "version": "1.0.0",
+  "description": "Redux id the solution to handle the data in different states in Our App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-jha/Redux.git"
+  },
+  "keywords": [],
+  "author": "Avinash jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-jha/Redux/issues"
+  },
+  "homepage": "https://github.com/A-jha/Redux#readme",
+  "dependencies": {
+    "redux": "^4.1.0"
+  }
+}
